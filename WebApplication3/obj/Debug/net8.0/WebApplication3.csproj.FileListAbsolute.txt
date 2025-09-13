@@ -30,3 +30,4 @@
 /Users/senthamil/RiderProjects/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.pdb
 /Users/senthamil/RiderProjects/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.genruntimeconfig.cache
 /Users/senthamil/RiderProjects/WebApplication3/WebApplication3/obj/Debug/net8.0/ref/WebApplication3.dll
+/Users/senthamil/RiderProjects/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.sourcelink.json
